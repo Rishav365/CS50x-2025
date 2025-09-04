@@ -11,4 +11,4 @@ For my very first program, I decided to redesign the classic *Oscartime* by crea
 Building Pooltime helped me practice **computational thinking** and apply the basics of designing algorithms without writing “real code.” It showed me how logic and flow control can turn simple blocks into interactive gameplay.  
 
 ## 📜 License
-MIT License
+This project is covered under the MIT License of the parent repository.
